@@ -63,6 +63,7 @@
     <gap:plugin name="org.apache.cordova.vibration" />
 	
 	<gap:plugin name="com.rjfun.cordova.plugin.lowlatencyaudio" version="1.0" />
+	<plugin name="Media" value="org.apache.cordova.AudioHandler" />
 
     <!-- Third party plugins -->
     <!-- A list of available plugins are available at https://build.phonegap.com/plugins -->
